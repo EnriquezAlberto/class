@@ -6,7 +6,7 @@ class Auto{
   }
 }
 
-const autoMio = new Auto("clio", "ASD", 4)
+const autoMio = new Auto("clio", "UFS", 4)
 
 console.log(autoMio)
 
